@@ -32,7 +32,7 @@ Getting Started:
 
 To get started with the Expense Planner application, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/expense-planner.git
+Clone the repository: git clone https://github.com/SnakeA117/expense-planner.git
 Navigate to the project directory: cd expense-planner
 Install dependencies: npm install
 Start the development server: npm run dev
