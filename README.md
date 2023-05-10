@@ -8,12 +8,17 @@ Expense Planner is a web application built with React and Vite that helps users 
 
 Features:
 
-Expense Tracking: Users can add new expenses by entering the amount, description, and category. They can also specify the date of the expense.
-Expense Categories: The application supports categorizing expenses into different categories such as food, transportation, bills, entertainment, etc. Users can create custom categories to suit their needs.
-Expense Listing: Users can view a list of their expenses, including the date, description, amount, and category. They can easily filter and sort the expenses based on various criteria.
-Expense Statistics: The application provides visual representations of expense data, such as charts and graphs, to help users understand their spending patterns. Users can analyze their expenses over different time periods and categories.
-Budget Setting: Users can set monthly or weekly budgets to monitor their spending habits and receive notifications when they exceed their budget limits.
-Responsive Design: The application is designed to be responsive, providing a seamless experience across different devices and screen sizes.
+- Expense Tracking: Users can add new expenses by entering the amount, description, and category. They can also specify the date of the expense.
+
+- Expense Categories: The application supports categorizing expenses into different categories such as food, transportation, bills, entertainment, etc. Users can create custom categories to suit their needs.
+
+- Expense Listing: Users can view a list of their expenses, including the date, description, amount, and category. They can easily filter and sort the expenses based on various criteria.
+
+- Expense Statistics: The application provides visual representations of expense data, such as charts and graphs, to help users understand their spending patterns. Users can analyze their expenses over different time periods and categories.
+
+- Budget Setting: Users can set monthly or weekly budgets to monitor their spending habits and receive notifications when they exceed their budget limits.
+
+- Responsive Design: The application is designed to be responsive, providing a seamless experience across different devices and screen sizes.
 Tech Stack:
 
 React: A JavaScript library for building user interfaces.
