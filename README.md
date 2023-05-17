@@ -52,7 +52,6 @@ The Expense Planner project is licensed under the MIT License. See the LICENSE f
 
 Acknowledgements:
 
-This project was inspired by the need for a simple and effective expense tracking tool. Special thanks to the open-source community for their contributions and the libraries used to build this application.
-
-That's a basic structure for your project's description and README. Feel free to modify and expand it based on your specific project requirements and additional features.
+This project was inspired by the need for a simple and effective expense tracking tool. Special thanks to the open-source community for their contributions and the libraries used to build this 
+application.
 
